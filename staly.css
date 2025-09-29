@@ -1,10 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>poschaspalybook_88</title>
-  <style>
+
     body {
       margin: 0;
       font-family: Arial, sans-serif;
@@ -45,9 +39,9 @@
       background: #f4f4f4;
     }
     .hero img {
-      max-width: 100%;   /* responsive */
-      height: auto;      
-      width: 400px;      /* default size */
+      max-width: 100%;
+      height: auto;
+      width: 400px;
       border-radius: 10px;
       margin-bottom: 20px;
     }
@@ -77,8 +71,8 @@
       background: #030e8a;
       color: white;
       text-align: center;
-      padding: 20px;
-      font-size: 0.9rem;
+      padding: 110px;
+      font-size: 5rem;
     }
 
     /* 📱 Responsive Design */
@@ -97,7 +91,7 @@
         font-size: 1rem;
       }
       .hero img {
-        width: 90%;   /* biar gambar nggak terlalu besar di HP */
+        width: 90%;
       }
     }
 
@@ -120,35 +114,4 @@
         font-size: 0.9rem;
       }
     }
-  </style>
-</head>
-<body>
-
-  <!-- Navbar -->
-  <header>
-    <h1>playbook88</h1>
-    <nav>
-      <a href="https://playbook88.cc/">register</a>
-      <a href="https://playbook88.cc/">login</a>
-    </nav>
-  </header>
-
-  <!-- Hero Section -->
-  <section class="hero">
-    <a href="https://playbook88.cc/">
-    <img src="playbook 3.webp" alt="Playbook88">
-    </a>
-    <div>
-      <h2>PLAYBOOK88 ADALAH SITUS TERBAIK DAN TERPERCAYA</h2>
-      <p>Kemenangan berapapun kami pasti bayar</p>
-      <a href="https://playbook88.cc/" class="btn">Get Started</a>
-    </div>
-  </section>
-
-  <!-- Footer -->
-  <footer>
-    <p>&copy; seojunior playbook_88</p>
-  </footer>
-
-</body>
-</html>
+  
